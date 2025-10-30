@@ -30,7 +30,3 @@ Este é um **portal de notícias escolar** desenvolvido para divulgar informaç�
 - Formulário para publicação de novas notícias.  
 - Exemplo de notícia modelo na página inicial.  
 - Layout responsivo utilizando Bootstrap.  
-
----
-
-## Estrutura do Projeto
